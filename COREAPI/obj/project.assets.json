@@ -11084,11 +11084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI\\COREAPI\\COREAPI.csproj",
+      "projectUniqueName": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI - Duck\\COREAPI\\COREAPI.csproj",
       "projectName": "COREAPI",
-      "projectPath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI\\COREAPI\\COREAPI.csproj",
+      "projectPath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI - Duck\\COREAPI\\COREAPI.csproj",
       "packagesPath": "C:\\Users\\RR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI\\COREAPI\\obj\\",
+      "outputPath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI - Duck\\COREAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

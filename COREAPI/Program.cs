@@ -1,12 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using COREAPI.Data;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<COREAPIContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("COREAPIContext") ?? throw new InvalidOperationException("Connection string 'COREAPIContext' not found.")));
-
+builder.Services.AddScoped<DbContext>();
 // Add services to the container.
 
 builder.Services.AddControllers();

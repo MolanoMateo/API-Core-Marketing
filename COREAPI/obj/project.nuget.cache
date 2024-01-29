@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mg8qEASwcxMAVgE2xnLuKNNjc9wBh4Dul4cKZrW8Tko+IdKsaiNF4z4u4hUEQMh8osci9ECSdd3VZzGloqSxvg==",
+  "dgSpecHash": "d13n8pE22fELpVXTv17jbrqiZbLNbPK6F2+ar3F8hPFB/quzliVMWTKOoAHAEgMaqKEvAspSJbj0FlZLPv0bug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI\\COREAPI\\COREAPI.csproj",
+  "projectFilePath": "C:\\Users\\RR\\Documents\\Visual Studio 2022\\Proyectos\\COREAPI - Duck\\COREAPI\\COREAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RR\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\RR\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
